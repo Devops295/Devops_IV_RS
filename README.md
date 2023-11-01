@@ -18,3 +18,5 @@ Y sube abordo en mi canal de Discord , trabaja en equipo, realiza los challenge 
 Link: https://roxs.295devops.com/
 
 ![Temario del Bootcamp](/images/temario.jpg)
+
+![Zona Horaria](/images/horaria.jpg)
