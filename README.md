@@ -19,4 +19,6 @@ Link: https://roxs.295devops.com/
 
 ![Temario del Bootcamp](/images/temario.jpg)
 
+Zona Horaria
+
 ![Zona Horaria](/images/horaria.jpg)
