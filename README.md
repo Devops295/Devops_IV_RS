@@ -9,12 +9,12 @@ Este es el temario de la IV Edición Bootcamp DevOps 2023
 🔥 ¿Cómo te imaginas tu futuro en DevOps, y cómo puedo apoyarte en tu trayectoria?
 
 Activa la campana del poder 🔔 :
-youtube.com/@295devops
+https://www.youtube.com/@295devops
 
 Te espero!!!!
 
 Y sube abordo en mi canal de Discord , trabaja en equipo, realiza los challenge y superate, y supera tus limites.
 
-Link: roxs.295devops.com
+Link: https://roxs.295devops.com/
 
 ![Temario del Bootcamp](/images/temario.jpg)
